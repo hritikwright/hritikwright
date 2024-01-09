@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hritik
+- 👋 Hi, I’m @Hritik
 
 
 <!---
